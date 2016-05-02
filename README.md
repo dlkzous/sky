@@ -1,4 +1,4 @@
-This is a simple ReactJS application that displays a customers bill. It utilises the flux architecture. It has been set up with jshint and jsdoc and uses Materialise CSS.
+This is a simple ReactJS application that displays a customers bill. It utilises the flux architecture. It has been set up with eslint and jsdoc and uses Materialise CSS.
 
 ## Installation
 
